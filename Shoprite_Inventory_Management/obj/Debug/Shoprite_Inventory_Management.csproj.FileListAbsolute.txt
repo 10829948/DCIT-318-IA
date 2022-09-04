@@ -1,0 +1,15 @@
+C:\Users\JEROME\source\repos\Shoprite_Inventory_Management\Shoprite_Inventory_Management\bin\Debug\Shoprite_Inventory_Management.exe.config
+C:\Users\JEROME\source\repos\Shoprite_Inventory_Management\Shoprite_Inventory_Management\bin\Debug\Shoprite_Inventory_Management.exe
+C:\Users\JEROME\source\repos\Shoprite_Inventory_Management\Shoprite_Inventory_Management\bin\Debug\Shoprite_Inventory_Management.pdb
+C:\Users\JEROME\source\repos\Shoprite_Inventory_Management\Shoprite_Inventory_Management\bin\Debug\Guna.UI2.dll
+C:\Users\JEROME\source\repos\Shoprite_Inventory_Management\Shoprite_Inventory_Management\obj\Debug\Shoprite_Inventory_Management.csproj.AssemblyReference.cache
+C:\Users\JEROME\source\repos\Shoprite_Inventory_Management\Shoprite_Inventory_Management\obj\Debug\Shoprite_Inventory_Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\JEROME\source\repos\Shoprite_Inventory_Management\Shoprite_Inventory_Management\obj\Debug\Shoprite_Inventory_Management.Form1.resources
+C:\Users\JEROME\source\repos\Shoprite_Inventory_Management\Shoprite_Inventory_Management\obj\Debug\Shoprite_Inventory_Management.Properties.Resources.resources
+C:\Users\JEROME\source\repos\Shoprite_Inventory_Management\Shoprite_Inventory_Management\obj\Debug\Shoprite_Inventory_Management.csproj.GenerateResource.cache
+C:\Users\JEROME\source\repos\Shoprite_Inventory_Management\Shoprite_Inventory_Management\obj\Debug\Shoprite_Inventory_Management.csproj.CoreCompileInputs.cache
+C:\Users\JEROME\source\repos\Shoprite_Inventory_Management\Shoprite_Inventory_Management\obj\Debug\Shoprite_Inventory_Management.csproj.CopyComplete
+C:\Users\JEROME\source\repos\Shoprite_Inventory_Management\Shoprite_Inventory_Management\obj\Debug\Shoprite_Inventory_Management.exe
+C:\Users\JEROME\source\repos\Shoprite_Inventory_Management\Shoprite_Inventory_Management\obj\Debug\Shoprite_Inventory_Management.pdb
+C:\Users\JEROME\source\repos\Shoprite_Inventory_Management\Shoprite_Inventory_Management\obj\Debug\Shoprite_Inventory_Management.UserManagement.resources
+C:\Users\JEROME\source\repos\Shoprite_Inventory_Management\Shoprite_Inventory_Management\obj\Debug\Shoprite_Inventory_Management.Form2.resources
